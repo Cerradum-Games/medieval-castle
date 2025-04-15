@@ -1,0 +1,78 @@
+Game Design Document (GDD) - Modelo Básico
+1. Título do Jogo
+Nome do jogo.
+
+2. Resumo do Jogo
+Breve descrição da ideia central do jogo:
+
+Gênero (ex: plataforma, RPG, puzzle)
+
+Plataforma (PC, mobile, console, web)
+
+Estilo visual e atmosfera
+
+Público-alvo
+
+3. História / Narrativa (se aplicável)
+Resumo da trama:
+
+Cenário
+
+Personagens principais
+
+Objetivo do jogador
+
+4. Gameplay
+Mecânicas principais (pular, atacar, construir, resolver puzzles, etc.)
+
+Progressão (níveis, fases, missões, evolução)
+
+Dificuldade
+
+HUD (o que aparece na tela do jogador)
+
+5. Controles
+Como o jogador interage com o jogo:
+
+Controles no teclado, mouse, controle, toque, etc.
+
+Interface do usuário
+
+6. Arte e Estilo Visual
+Estilo gráfico (pixel art, 3D realista, cartoon, etc.)
+
+Paleta de cores
+
+Animações importantes
+
+7. Áudio
+Música (ambiente, trilha sonora)
+
+Efeitos sonoros (ações, interface, ambiente)
+
+8. Personagens / Inimigos / NPCs
+Descrição dos personagens
+
+Habilidades
+
+Comportamentos e IA
+
+9. Itens e Inventário
+Tipos de itens (armas, poções, recursos)
+
+Como são obtidos e utilizados
+
+10. Menus e Interface
+Menu principal
+
+Menu de pausa
+
+Inventário, configurações, etc.
+
+11. Monetização (se aplicável)
+Jogo pago, gratuito com anúncios, microtransações, etc.
+
+12. Cronograma e Etapas
+Planejamento de desenvolvimento
+
+Marcos importantes (ex: protótipo, alpha, beta, lançamento)
